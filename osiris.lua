@@ -11,6 +11,7 @@ elseif game.PlaceId == 5602055394 then
 elseif game.PlaceId == 9824221333 then
     loadstring(game:HttpGet('https://scripts.luawl.com/13219/DaHoodAimTrainer.lua'))()
 elseif game.PlaceId == 6751371363 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/Bypasses.lua", true))() --dont delete this
     loadstring(game:HttpGet('https://scripts.luawl.com/13492/HoodDuels.lua'))()
 else
     loadstring(game:HttpGet('https://scripts.luawl.com/12561/Osiris.lua'))()
